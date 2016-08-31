@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Gui
+Bundle-SymbolicName: com.lenkp.asteriskmonitor.gui
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.lenkp.asteriskmonitor.gui.GuiActivator
+Bundle-Vendor: LENKP
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: ch.loway.oss.ari4java.generated,
+ ch.loway.oss.ari4java.tools,
+ com.lenkp.asteriskmonitor.api,
+ org.osgi.framework;version="1.3.0"

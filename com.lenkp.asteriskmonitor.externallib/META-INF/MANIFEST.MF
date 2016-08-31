@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Externallib
+Bundle-SymbolicName: com.lenkp.asteriskmonitor.externallib
+Bundle-Version: 1.0.0
+Bundle-RequiredExecutionEnvironment: OSGi/Minimum-1.2
+Export-Package: ch.loway.oss.ari4java,
+ ch.loway.oss.ari4java.generated,
+ ch.loway.oss.ari4java.tools

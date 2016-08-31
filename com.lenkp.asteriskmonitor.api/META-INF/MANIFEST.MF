@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Api
+Bundle-SymbolicName: com.lenkp.asteriskmonitor.api
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: LENKP
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: com.lenkp.asteriskmonitor.api
+Import-Package: ch.loway.oss.ari4java,
+ ch.loway.oss.ari4java.generated
