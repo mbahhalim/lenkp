@@ -6,7 +6,7 @@ import ch.loway.oss.ari4java.ARI;
 import ch.loway.oss.ari4java.AriFactory;
 import ch.loway.oss.ari4java.AriVersion;
 
-public class AsteriskManager {
+public final class AsteriskManager {
 	
 	public final static Logger LOGGER =
 			Logger.getLogger(AsteriskManager.class.getName());
